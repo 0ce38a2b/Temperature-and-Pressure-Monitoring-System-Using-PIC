@@ -16,6 +16,7 @@ We extract the ADC result as per place using the subtraction and division algori
 and send them for display. The functionality of “Read and display temperature/
 pressure” is encapsulated in subroutines.
 ![image](https://user-images.githubusercontent.com/51925070/172604874-60ac9c78-ef74-4bfc-8043-407529c9f43d.png)
+
 Figure S1: The left is the flow chart of the entire program. The right is the flow chart of the subroutine, “READ AND DISPLAY TEMPERATURE/PRESSURE”. 
 # Signal conditioning circuits
 The peripheral circuit is shown in Fig. S2. The
