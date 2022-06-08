@@ -1,3 +1,9 @@
+; This assembly code is loaded into the PIC micro-controller
+
+; Do not use this in production. Sample purpose only.
+
+; Author: 0ce38a2b
+
 #include <p16F877A.inc>
 ; CONFIG
 __config 0xFF32
